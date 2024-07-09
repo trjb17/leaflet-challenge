@@ -1,0 +1,12 @@
+/* Reset default browser styles */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Basic styling for the map container */
+#map {
+  width: 100%;
+  height: 100%;
+}
